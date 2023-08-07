@@ -4,7 +4,7 @@ This is the support page for the application "Molkky for everyone (a.k.a. Minmor
 
 プライバシーポリシー(Privacy Policy)は[こちら](https://ta9yamakawa.github.io/MolkkyPrivacyPolicy/PrivacyPolicy/ja)
 
-アプリに関する問合せは下記のいずれかからお願いします。  
+アプリに関する問合せは下記からお願いします。  
 If you have any questions about the application, you can contact information below.
 
 [contact us](https://twitter.com/present1206)
